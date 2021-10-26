@@ -13,5 +13,5 @@ https://discord.com/developers/applications
 8) Select bot under scopes
 9) Select bot permissions
 10) Scroll back to scopes & copy the URL
-11) Invite your bot, run the code, test out commands
+11) Invite your bot, run bot_brain.py, test out commands
 12) Build a bot :D
